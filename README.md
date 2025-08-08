@@ -40,9 +40,7 @@ AutoGitDigest/
 │
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -54,32 +52,22 @@ git clone https://github.com/Debabrata275/AutoGit-Digest.git
 cd AutoGit-Digest/src
 2️⃣ Start Mailpit:
 
-bash
-Copy
-Edit
+
 mailpit
 Access at: http://localhost:8025
 
 3️⃣ Start PHP server:
 
-bash
-Copy
-Edit
 php -S localhost:8000
 Access at: http://localhost:8000
 
 4️⃣ Setup CRON job:
 
-bash
-Copy
-Edit
+
 chmod +x setup_cron.sh
 ./setup_cron.sh
-Check with:
 
-bash
-Copy
-Edit
+Check with:
 crontab -l
 📸 Screenshots
 (Replace UPLOAD_LINK_HERE with actual image links after uploading them)

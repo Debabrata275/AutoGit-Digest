@@ -73,6 +73,14 @@ crontab -l
 (Replace UPLOAD_LINK_HERE with actual image links after uploading them)
 
 
+https://github.com/user-attachments/assets/f67bf3b0-0750-408c-b348-b2fe11110ce9
+
+
+
+https://github.com/user-attachments/assets/8f665351-c20a-4fad-b139-63bd2d1cc0f4
+
+
+
 
 🎥 Demo Video
 (Replace UPLOAD_LINK_HERE with actual video link)
